@@ -14,4 +14,8 @@ El entrenamiento de la flexibilidad consiste en una serie de ejercicios que esti
  - No rebotes: No brinques, el brincar hace que las fibras musculares se encojan en vez de estirarse. 
  - Respira: Respira durante los estiramientos.
 
- 
+ # Consejos
+ - No te obligues a sentir dolor: Espera sentir tensión mientras estiras, pero no dolor. 
+ - Haz estiramientos específicos: Haz estiramientos que involucren a los músculos más utilizados en el deporte o actividad que practicas. 
+ - Sé constante: Estirar regularmente, al menos dos o tres veces a la semana, puede ayudarte a conseguir los mayores beneficios. 
+ - Usa un rodillo de espuma: El rodillo de espuma ayuda a romper los nudos musculares y aliviar la tensión.
