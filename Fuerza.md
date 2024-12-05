@@ -6,3 +6,7 @@ Los ejercicios de fuerza, también conocidos como entrenamiento de resistencia, 
  - Mejora de la movilidad
  - Salud mental
  - Densidad osea
+# Instrucciones
+ 1. Elegir el peso
+ 2. Adoptar postura correcta
+ 3. Calentar
