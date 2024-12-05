@@ -1,1 +1,2 @@
 # Ejercicio Flexibilidad
+El entrenamiento de la flexibilidad consiste en una serie de ejercicios que estiran los músculos y que pueden ayudar a prevenir lesiones y posibles dolores que pudiesen ocurrir como consecuencia de nuestro entrenamiento
