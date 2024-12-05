@@ -10,3 +10,7 @@ Los ejercicios de fuerza, también conocidos como entrenamiento de resistencia, 
  1. Elegir el peso
  2. Adoptar postura correcta
  3. Calentar
+# Consejos
+ - Empezar poco a poco
+ - Aumentar el peso gradualmente
+ - Evita movimientos bruscos
